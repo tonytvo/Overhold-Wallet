@@ -44,8 +44,7 @@ your environment? What steps will reproduce the issue? What OS
 experience the problem? What would you expect to be the outcome? All these
 details will help people to fix any potential bugs.
 
-For example on how to write bug report, please check the [bug report template](https://github.com/overhold-org/Overhold-Wallet/blob/master/.github/ISSUE_TEMPLATE/bug-report.md).
-
+For example on how to write bug report, please check the [bug report template](https://github.com/overhold-org/Overhold-Wallet/blob/develop/.github/ISSUE_TEMPLATE/bug-report.md).
 
 <a name="features"></a>
 ## Feature requests
